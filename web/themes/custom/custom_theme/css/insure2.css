@@ -185,12 +185,9 @@ nav img {
 }
 
 .items-middle-content {
-  display: grid;
   align-items: center;
   grid-template-columns: 400px 400px 400px;
-  grid-template-rows: 1fr;
-  grid-row-gap: 30px;
-  margin: 0 0 0 126px;
+  margin: 0 0 100px 0;
 }
 .items-middle-content img {
   padding: 0 0 0 50px;
@@ -201,10 +198,8 @@ nav img {
   font-size: 30px;
   color: #2b272f;
   margin: 0px;
-  padding: 0 48px 0 48px;
 }
 .items-middle-content p {
-  padding: 0 2px 0 48px;
   font-family: "Karla", sans-serif;
   font-size: 16px;
   font-size: 17px;
